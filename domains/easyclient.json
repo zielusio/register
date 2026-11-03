@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "zielusio",
+    "email": "Stanislaw.adam.kowalcz@gmail.com"
+  },
+  "records": {
+    "CNAME": "easyclient.pages.dev"
+  },
+  "proxied": true
+}
